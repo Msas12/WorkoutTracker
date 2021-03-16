@@ -29,8 +29,7 @@ The user should be able to:
 
 
 ## Installation
-Link to website:
-[Web App Link](https://workout-tracker-msas12.herokuapp.com/)
+For link to Web App click [here](https://workout-tracker-msas12.herokuapp.com/)
 
 ## Usage 
 
