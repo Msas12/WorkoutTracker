@@ -121,7 +121,7 @@ let workoutSeed = [
         sets: 4
       }
     ]
-  }
+  },
 ];
 
 db.Workout.deleteMany({})
